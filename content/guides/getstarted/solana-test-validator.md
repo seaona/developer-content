@@ -104,7 +104,7 @@ This command creates a new keypair and saves it to the specified file.
 To add SOL to your account:
 
 ```shell
-solana airdrop 10 <ACCOUNT_ADDRESS>
+solana airdrop 10 <ACCOUNT_ADDRESS> --url devnet
 ```
 
 To retrieve details about an account, such as its balance and owner:
